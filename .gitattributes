@@ -1,4 +1,4 @@
-
+should not conflict
 # *.gif filter=lfs diff=lfs merge=lfs -text
 # * text
 # new conflict
